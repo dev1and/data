@@ -1,0 +1,9 @@
+- name: Gigazine
+  url: https://gigazine.net/news
+  rss: https://gigazine.net/news/rss_atom/
+- name: ITmedia
+  url: https://www.itmedia.co.jp/
+  rss: https://rss.itmedia.co.jp/rss/2.0/topstory.xml
+- name: TechCrunch
+  url: https://jp.techcrunch.com
+  rss: https://jp.techcrunch.com/feed
