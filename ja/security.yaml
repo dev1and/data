@@ -1,0 +1,12 @@
+- name: itmedia
+  url: https://www.itmedia.co.jp/
+  rss: https://rss.itmedia.co.jp/rss/2.0/news_security.xml
+- name: JVN iPedia
+  url: https://jvndb.jvn.jp/index.html
+  rss: https://jvndb.jvn.jp/ja/rss/jvndb_new.rdf
+- name: net security
+  url: https://scan.netsecurity.ne.jp
+  rss: https://scan.netsecurity.ne.jp/rss/index.rdf
+- name: security next
+  url: https://www.security-next.com
+  rss: https://www.security-next.com/feed
