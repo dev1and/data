@@ -136,6 +136,9 @@
 - name: KLab
   url: https://www.klab.com/jp/blog/tech
   rss: https://www.klab.com/jp/assets/rss/rss_tech.xml
+- name: LayerX
+  url: https://tech.layerx.co.jp
+  rss: https://tech.layerx.co.jp/feed
 - name: LCL
   url: https://techblog.lclco.com
   rss: https://techblog.lclco.com/feed
