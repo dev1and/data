@@ -1,6 +1,9 @@
 - name: Github
   uril: https://github.com
   cralwer: github
+- name: Hatena
+  url: https://b.hatena.ne.jp/
+  cralwer: hatena
 - name: Qiita
   url: https://qiita.com
   cralwer: qiita
