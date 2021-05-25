@@ -254,6 +254,9 @@
 - name: Uzabase
   url: https://tech.uzabase.com
   rss: https://tech.uzabase.com/feed
+- name: Visional
+  url: https://engineering.visional.inc/blog
+  rss: https://engineering.visional.inc/blog/index.xml
 - name: VOYAGE GROUP
   url: https://techlog.voyagegroup.com
   rss: https://techlog.voyagegroup.com/feed
