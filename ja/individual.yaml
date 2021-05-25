@@ -1,3 +1,12 @@
+- name: catnose99
+  url: https://catnose99.com
+  rss: https://catnose99.com/rss.xml
+- name: j5ik2o
+  url: https://blog.j5ik2o.me
+  rss: https://blog.j5ik2o.me/feed
+- name: jabba
+  url: https://jabba.cloud
+  rss: https://jabba.cloud/rss.xml
 - name: MasayaAoyama
   url: https://amsy810.hateblo.jp
   rss: https://amsy810.hateblo.jp/feed
@@ -5,11 +14,17 @@
   facebook: https://www.facebook.com/amsy810
   github: https://github.com/MasayaAoyama
   linkedin: https://www.linkedin.com/in/amsy810
+- name: miyamae
+  url: https://blog.bitarts.jp
+  rss: https://blog.bitarts.jp/feed
 - name: motemen
   url: https://motemen.hatenablog.com
   rss: https://motemen.hatenablog.com/feed
   twitter: https://twitter.com/motemen
   github: https://github.com/motemen
+- name: pascal256
+  url: https://koduki.hatenablog.com
+  rss: https://koduki.hatenablog.com/feed
 - name: quoll00
   url: https://christina04.hatenablog.com
   rss: https://christina04.hatenablog.com/feed
@@ -18,9 +33,15 @@
   url: https://shu223.hatenablog.com
   rss: https://shu223.hatenablog.com/feed
   github: https://github.com/shu223
+- name: t_wada
+  url: https://t-wada.hatenablog.jp
+  rss: https://t-wada.hatenablog.jp/feed
+- name: yoku0825
+  url: https://yoku0825.blogspot.com
+  rss: https://yoku0825.blogspot.com/rss.xml
 - name: y-taka-23
   url: https://ccvanishing.hateblo.jp
   rss: https://ccvanishing.hateblo.jp/feed
-  twitter: https://twitter.com/y_taka_23
   github: https://github.com/y-taka-23
+  twitter: https://twitter.com/y_taka_23
   speakerdeck: https://speakerdeck.com/ytaka23
