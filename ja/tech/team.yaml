@@ -18,6 +18,10 @@
   alais: エーピーコミュニケーションズ
   url: https://techblog.ap-com.co.jp
   rss: https://techblog.ap-com.co.jp/feed
+- name: Artis
+  alias: アーティス
+  url: https://www.asobou.co.jp/blog
+  rss: https://www.asobou.co.jp/blog/feed
 - name: asahi net
   alias: 朝日ネット
   url: https://techblog.asahi-net.co.jp
@@ -28,9 +32,15 @@
 - name: Azure
   url: https://azure.microsoft.com/ja-jp/blog
   rss: https://azurecomcdn.azureedge.net/ja-jp/blog/feed
+- name: Base
+  url: https://devblog.thebase.in
+  rss: https://devblog.thebase.in/rss
 - name: BPS
   url: https://techracho.bpsinc.jp
   rss: https://techracho.bpsinc.jp/feed
+- name: CAMPFIRE
+  url: https://note.com/campfire_dev
+  rss: https://note.com/campfire_dev/rss
 - name: CData
   url: https://www.cdatablog.jp
   rss: https://www.cdatablog.jp/feed
@@ -267,6 +277,9 @@
   alias: 弥生
   url: https://tech.yayoi-kk.co.jp
   rss: https://tech.yayoi-kk.co.jp/feed
+- name: zeals
+  url: https://tech.zeals.co.jp
+  rss: https://tech.zeals.co.jp/feed
 - name: ZOZO
   url: https://techblog.zozo.com
   rss: https://techblog.zozo.com/feed

@@ -1,0 +1,9 @@
+- name: fuyuna
+  url: https://fuyuna.net/category/design
+  rss: https://fuyuna.net/category/design/feed
+- name: stocker
+  url: https://stocker.jp/diary
+  rss: https://stocker.jp/diary/feed
+- name: webcreatorbox
+  url: https://www.webcreatorbox.com
+  rss: https://www.webcreatorbox.com/feed

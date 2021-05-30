@@ -1,0 +1,12 @@
+- name: coliss
+  url: https://coliss.com
+  rss: https://coliss.com/feed
+- name: nokojo-foxfound
+  url: https://nokojo-foxfound.com
+  rss: https://nokojo-foxfound.com/feed
+- name: PHOTOSHOPVIP
+  url: https://photoshopvip.net
+  rss: https://photoshopvip.net/feed
+- name: uxmilk
+  url: https://uxmilk.jp
+  rss: https://uxmilk.jp/feed

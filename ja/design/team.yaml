@@ -1,0 +1,15 @@
+- name: btrax
+  url: https://blog.btrax.com/jp
+  rss: https://blog.btrax.com/jp/feed
+- name: goodpatch
+  url: https://goodpatch.com/blog
+  rss: https://goodpatch.com/blog/feed
+- name: liginc
+  url: https://liginc.co.jp/blog
+  rss: https://liginc.co.jp/blog/feed
+- name: tomorrowgate
+  url: https://tomorrowgate.co.jp/blog
+  rss: https://tomorrowgate.co.jp/blog/feed
+- name: visional
+  url: https://design.visional.inc
+  rss: https://design.visional.inc/feed

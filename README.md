@@ -12,12 +12,14 @@
 
 ```
 .
-└── ja // 言語
-    ├── individual.yaml
-    ├── news.yaml
-    ├── platform.yaml
-    ├── security.yaml
-    └── team.yaml
+└── ja # 言語
+    ├── design # カテゴリ
+    └── tech
+        ├── individual.yaml
+        ├── news.yaml
+        ├── platform.yaml
+        ├── security.yaml
+        └── team.yaml
 ```
 
 | 対象 | ファイル名 | 説明 |

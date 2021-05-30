@@ -1,6 +1,12 @@
 - name: catnose99
   url: https://catnose99.com
   rss: https://catnose99.com/rss.xml
+- name: cpp-learning
+  url: https://cpp-learning.com
+  rss: https://cpp-learning.com/feed
+- name: febc-yamamoto
+  url: https://febc-yamamoto.hatenablog.jp/
+  rss: https://febc-yamamoto.hatenablog.jp/feed
 - name: j5ik2o
   url: https://blog.j5ik2o.me
   rss: https://blog.j5ik2o.me/feed
@@ -17,6 +23,9 @@
 - name: miyamae
   url: https://blog.bitarts.jp
   rss: https://blog.bitarts.jp/feed
+- name: mosuke
+  url: https://blog.mosuke.tech
+  rss: https://blog.mosuke.tech/index.xml
 - name: motemen
   url: https://motemen.hatenablog.com
   rss: https://motemen.hatenablog.com/feed
@@ -25,6 +34,9 @@
 - name: pascal256
   url: https://koduki.hatenablog.com
   rss: https://koduki.hatenablog.com/feed
+- name: project-unknown
+  url: http://www.project-unknown.jp
+  rss: http://www.project-unknown.jp/feed
 - name: quoll00
   url: https://christina04.hatenablog.com
   rss: https://christina04.hatenablog.com/feed
@@ -36,6 +48,12 @@
 - name: t_wada
   url: https://t-wada.hatenablog.jp
   rss: https://t-wada.hatenablog.jp/feed
+- name: techstep
+  url: https://techstep.hatenablog.com
+  rss: https://techstep.hatenablog.com/feed
+- name: wantanblog
+  url: https://www.wantanblog.com
+  rss: https://www.wantanblog.com/feed
 - name: yoku0825
   url: https://yoku0825.blogspot.com
   rss: https://yoku0825.blogspot.com/rss.xml
@@ -45,6 +63,3 @@
   github: https://github.com/y-taka-23
   twitter: https://twitter.com/y_taka_23
   speakerdeck: https://speakerdeck.com/ytaka23
-- name: cpp-learning
-  url: https://cpp-learning.com
-  rss: https://cpp-learning.com/feed
