@@ -1,0 +1,110 @@
+- name: "PHP"
+  category: "language"
+  url: "https://www.php.net/supported-versions.php"
+  releases:
+    - version: "8.1"
+      url: "https://www.php.net/ChangeLog-8.php#PHP_8_1"
+      initail_release: "2021-11-25"
+      active_support: "2023-11-25"
+      security_support: "2024-11-25"
+      latest: "8.1.1"
+      lts: true
+    - version: "8.0"
+      url: "https://www.php.net/ChangeLog-8.php#PHP_8_0"
+      initail_release: "2020-11-26"
+      active_support: "2022-11-26"
+      security_support: "2023-11-26"
+      latest: "8.0.14"
+      lts: true
+    - version: "7.4"
+      url: "https://www.php.net/ChangeLog-7.php#PHP_7_4"
+      initail_release: "2019-11-28"
+      active_support: "2021-11-28"
+      security_support: "2022-11-28"
+      latest: "7.4.27"
+      lts: true
+
+- name: "Laravel"
+  category: "framework"
+  url: "https://laravel.com/docs/releases"
+  releases:
+    - version: 8.x
+      url: "https://laravel.com/docs/8.x/releases"
+      initail_release: "2020-09-08"
+      active_support: "2022-07-26"
+      security_support: "2023-01-24"
+      latest: "8.78.0"
+      lts: false
+    - version: 7.x
+      url: "https://laravel.com/docs/7.x/releases"
+      initail_release: "2020-03-03"
+      active_support: "2020-10-06"
+      security_support: "2021-03-03"
+      latest: "7.30.6"
+      lts: false
+    - version: 6.x
+      url: "https://laravel.com/docs/6.x/releases"
+      initail_release: "2019-09-03"
+      active_support: "2022-01-25"
+      security_support: "2022-09-06"
+      latest: "6.20.43"
+      lts: true
+    - version: "5.8"
+      url: "https://laravel.com/docs/5.8/releases"
+      initail_release: "2019-02-26"
+      active_support: "2019-08-26"
+      security_support: "2020-02-26"
+      latest: "5.8.38"
+      lts: false
+    - version: "5.5"
+      url: "https://laravel.com/docs/5.5/releases"
+      initail_release: "2017-08-30"
+      active_support: "2019-08-30"
+      security_support: "2020-08-30"
+      latest: "5.5.50"
+      lts: true
+
+- name: "Symfony"
+  category: "framework"
+  url: "https://symfony.com/releases"
+  releases:
+    - version: "6.0"
+      url: "https://symfony.com/releases/6.0"
+      initail_release: "2021-11-29"
+      active_support: "2022-07-31"
+      security_support: "2022-07-31"
+      latest: "6.0.2"
+      lts: false
+    - version: "5.4"
+      url: "https://symfony.com/releases/5.4"
+      initail_release: "2021-11-29"
+      active_support: "2024-11-30"
+      security_support: "2025-11-30"
+      latest: "5.4.2"
+      lts: true
+    - version: "4.4"
+      url: "https://symfony.com/releases/4.4"
+      initail_release: "2019-11-21"
+      active_support: "2022-11-30"
+      security_support: "2023-11-30"
+      latest: "4.4.36"
+      lts: true
+
+- name: "CakePHP"
+  category: "framework"
+  url: "https://github.com/cakephp/cakephp/wiki#roadmaps"
+  releases:
+    - version: 4.x
+      url: "https://github.com/cakephp/cakephp/wiki"
+      initail_release: "2019-12-15"
+      active_support: ""
+      security_support: ""
+      latest: "4.3.3"
+      lts: true
+    - version: 3.x
+      url: "https://github.com/cakephp/cakephp/wiki"
+      initail_release: "2015-03-22"
+      active_support: "2021-12-15"
+      security_support: "2022-12-15"
+      latest: "3.10.2"
+      lts: true
