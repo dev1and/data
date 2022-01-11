@@ -67,6 +67,9 @@
 - name: DeNA
   url: https://engineer.dena.com
   rss: https://engineer.dena.com/index.xml
+- name: DeNA Testing Blog
+  url: https://swet.dena.com
+  rss: https://swet.dena.com/feed
 - name: DENET
   url: https://blog.denet.co.jp
   rss: https://blog.denet.co.jp/feed
@@ -102,6 +105,9 @@
 - name: Gamewith
   url: https://tech.gamewith.co.jp
   rss: https://tech.gamewith.co.jp/feed
+- name: Gaudiy
+  url: https://techblog.gaudiy.com
+  rss: https://techblog.gaudiy.com/feed
 - name: GCP
   url: https://cloudblog.withgoogle.com/ja
   rss: https://cloudblog.withgoogle.com/ja/rss
@@ -122,6 +128,9 @@
 - name: Gree
   url: https://labs.gree.jp/blog
   rss: https://labs.gree.jp/blog/feed
+- name: GRIPHONE
+  url: https://tech.griphone.co.jp
+  rss: https://tech.griphone.co.jp/feed/
 - name: Gunosy
   url: https://tech.gunosy.io
   rss: https://tech.gunosy.io/feed
@@ -132,6 +141,9 @@
   alias: ハートビーツ
   url: https://heartbeats.jp/hbblog
   rss: https://heartbeats.jp/feed
+- name: hey
+  url: https://tech.hey.jp
+  rss: https://tech.hey.jp/feed
 - name: jx press
   alias: JX通信社
   url: https://tech.jxpress.net
@@ -186,6 +198,9 @@
 - name: Plaid
   url: https://tech.plaid.co.jp
   rss: https://tech.plaid.co.jp/rss
+- name: Preferred Networks
+  url: https://tech.preferred.jp
+  rss: https://tech.preferred.jp/ja/blog/feed/
 - name: Raksul
   url: https://tech.raksul.com
   rss: https://tech.raksul.com/feed

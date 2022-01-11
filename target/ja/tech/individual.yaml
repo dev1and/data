@@ -13,6 +13,9 @@
 - name: jabba
   url: https://jabba.cloud
   rss: https://jabba.cloud/rss.xml
+- name: konosumi
+  url: https://www.konosumi.net
+  rss: https://www.konosumi.net/feed
 - name: MasayaAoyama
   url: https://amsy810.hateblo.jp
   rss: https://amsy810.hateblo.jp/feed
@@ -41,16 +44,32 @@
   url: https://christina04.hatenablog.com
   rss: https://christina04.hatenablog.com/feed
   github: https://github.com/jun06t
+- name: shin1x1
+  url: https://blog.shin1x1.com
+  rss: https://blog.shin1x1.com/feed
 - name: shu223
   url: https://shu223.hatenablog.com
   rss: https://shu223.hatenablog.com/feed
   github: https://github.com/shu223
+- name: singtacks
+  url: https://note.com/singtacks
+  rss: https://note.com/singtacks/rss
 - name: t_wada
   url: https://t-wada.hatenablog.jp
   rss: https://t-wada.hatenablog.jp/feed
 - name: techstep
   url: https://techstep.hatenablog.com
   rss: https://techstep.hatenablog.com/feed
+- name: tokumaru
+  url: https://blog.tokumaru.org
+  rss: https://blog.tokumaru.org/feeds/posts/default
+  twitter: https://twitter.com/ockeghem
+- name: ttskch
+  url: https://blog.ttskch.com
+  rss: https://blog.ttskch.com/rss.xml
+  twitter: https://twitter.com/ttskch
+  facebook: https://www.facebook.com/ttskch
+  github: https://github.com/ttskch
 - name: wantanblog
   url: https://www.wantanblog.com
   rss: https://www.wantanblog.com/feed
