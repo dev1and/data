@@ -99,6 +99,9 @@
   alias: 富士通研究所
   url: https://blog.fltech.dev
   rss: https://blog.fltech.dev/feed
+- name: Fusic
+  url: https://tech.fusic.co.jp
+  rss: https://tech.fusic.co.jp/rss.xml
 - name: FUTURE
   url: https://future-architect.github.io
   rss: https://future-architect.github.io/atom.xml
@@ -196,6 +199,9 @@
   alias: ペパボ
   url: https://tech.pepabo.com
   rss: https://tech.pepabo.com/feed
+- name: php-scrapbox
+  url: https://scrapbox.io/php
+  rss: https://scrapbox.io/api/feed/php
 - name: pixiv
   url: https://inside.pixiv.blog
   rss: https://inside.pixiv.blog/feed
