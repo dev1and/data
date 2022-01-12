@@ -1,3 +1,6 @@
+- name: balloon
+  url: https://balloon.asia/post
+  rss: https://balloon.asia/post/index.xml
 - name: catnose99
   url: https://catnose99.com
   rss: https://catnose99.com/rss.xml
@@ -7,6 +10,11 @@
 - name: febc-yamamoto
   url: https://febc-yamamoto.hatenablog.jp/
   rss: https://febc-yamamoto.hatenablog.jp/feed
+- name: freedom-man
+  url: https://blog.freedom-man.com
+  rss: https://blog.freedom-man.com/feed.xml
+  github: https://github.com/tzmfreedom
+  twitter: https://twitter.com/tzm_freedom
 - name: j5ik2o
   url: https://blog.j5ik2o.me
   rss: https://blog.j5ik2o.me/feed
@@ -37,6 +45,12 @@
 - name: pascal256
   url: https://koduki.hatenablog.com
   rss: https://koduki.hatenablog.com/feed
+- name: polidog
+  url: https://polidog.jp
+  rss: https://polidog.jp/index.xml
+  github: https://github.com/polidog
+  twitter: https://twitter.com/polidog
+  facebook: https://www.facebook.com/polidog
 - name: project-unknown
   url: http://www.project-unknown.jp
   rss: http://www.project-unknown.jp/feed
