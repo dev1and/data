@@ -173,6 +173,10 @@
 - name: m3
   url: https://www.m3tech.blog
   rss: https://www.m3tech.blog/feed
+- name: macloud
+  alias: M&Aクラウド
+  url: https://tech.macloud.jp
+  rss: https://tech.quartetcom.co.jp/feed.xml
 - name: Mercari
   url: https://engineering.mercari.com
   rss: https://engineering.mercari.com/blog/feed.xml
@@ -201,6 +205,10 @@
 - name: Preferred Networks
   url: https://tech.preferred.jp
   rss: https://tech.preferred.jp/ja/blog/feed/
+- name: QUARTETCOM
+  alias: カルテットコミュニケーションズ
+  url: https://tech.quartetcom.co.jp
+  rss: https://tech.quartetcom.co.jp/feed.xml
 - name: Raksul
   url: https://tech.raksul.com
   rss: https://tech.raksul.com/feed
@@ -288,6 +296,9 @@
 - name: Yahoo
   url: https://techblog.yahoo.co.jp
   rss: https://techblog.yahoo.co.jp/index.xml
+- name: yappli
+  url: https://tech.yappli.io
+  rss: https://tech.yappli.io/feed
 - name: yayoi
   alias: 弥生
   url: https://tech.yayoi-kk.co.jp
