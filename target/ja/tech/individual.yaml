@@ -54,6 +54,9 @@
 - name: singtacks
   url: https://note.com/singtacks
   rss: https://note.com/singtacks/rss
+- name: starbug1
+  url: https://blog.starbug1.com
+  rss: https://blog.starbug1.com/feed
 - name: t_wada
   url: https://t-wada.hatenablog.jp
   rss: https://t-wada.hatenablog.jp/feed
@@ -70,6 +73,10 @@
   twitter: https://twitter.com/ttskch
   facebook: https://www.facebook.com/ttskch
   github: https://github.com/ttskch
+- name: utakata
+  url: https://www.utakata.work
+  rss: https://www.utakata.work/feed
+  twitter: https://twitter.com/yoshiki_utakata
 - name: wantanblog
   url: https://www.wantanblog.com
   rss: https://www.wantanblog.com/feed
