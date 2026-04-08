@@ -2,109 +2,102 @@
   category: "language"
   url: "https://www.php.net/supported-versions.php"
   releases:
-    - version: "8.1"
-      url: "https://www.php.net/ChangeLog-8.php#PHP_8_1"
-      initail_release: "2021-11-25"
-      active_support: "2023-11-25"
-      security_support: "2024-11-25"
-      latest: "8.1.1"
-      lts: true
-    - version: "8.0"
-      url: "https://www.php.net/ChangeLog-8.php#PHP_8_0"
-      initail_release: "2020-11-26"
-      active_support: "2022-11-26"
-      security_support: "2023-11-26"
-      latest: "8.0.14"
-      lts: true
-    - version: "7.4"
-      url: "https://www.php.net/ChangeLog-7.php#PHP_7_4"
-      initail_release: "2019-11-28"
-      active_support: "2021-11-28"
-      security_support: "2022-11-28"
-      latest: "7.4.27"
-      lts: true
+    - version: "8.5"
+      url: "https://www.php.net/releases/8.5/en.php"
+      initial_release: "2025-11-20"
+      active_support: "2027-11-20"
+      security_support: "2029-12-31"
+      latest: "8.5.4" # 2026-03-12リリース
+      lts: false
+    - version: "8.4"
+      url: "https://www.php.net/ChangeLog-8.php#PHP_8_4"
+      initial_release: "2024-11-21"
+      active_support: "2026-11-23"
+      security_support: "2028-12-31"
+      latest: "8.4.19" # 2026-04-02リリース
+      lts: false
+    - version: "8.3"
+      url: "https://www.php.net/ChangeLog-8.php#PHP_8_3"
+      initial_release: "2023-11-23"
+      active_support: "2025-11-23" # 終了済み
+      security_support: "2027-12-31"
+      latest: "8.3.30" # 2026-01-20リリース
+      lts: false
+    - version: "8.2"
+      url: "https://www.php.net/ChangeLog-8.php#PHP_8_2"
+      initial_release: "2022-12-08"
+      active_support: "2024-12-31" # 終了済み
+      security_support: "2026-12-31"
+      latest: "8.2.35" # 不明（最新パッチ番号は各OS配布元で異なるため.x表記が公式）
+      lts: false
 
 - name: "Laravel"
   category: "framework"
   url: "https://laravel.com/docs/releases"
   releases:
-    - version: 8.x
-      url: "https://laravel.com/docs/8.x/releases"
-      initail_release: "2020-09-08"
-      active_support: "2022-07-26"
-      security_support: "2023-01-24"
-      latest: "8.78.0"
+    - version: "13.x"
+      url: "https://laravel.com/docs/13.x/releases"
+      initial_release: "2026-02-03" # 2026年2月リリース済
+      active_support: "2027-08-03"
+      security_support: "2028-02-03"
+      latest: "13.4.1"
       lts: false
-    - version: 7.x
-      url: "https://laravel.com/docs/7.x/releases"
-      initail_release: "2020-03-03"
-      active_support: "2020-10-06"
-      security_support: "2021-03-03"
-      latest: "7.30.6"
+    - version: "12.x"
+      url: "https://laravel.com/docs/12.x/releases"
+      initial_release: "2025-02-24"
+      active_support: "2026-08-24"
+      security_support: "2027-02-24"
+      latest: "12.10.5"
       lts: false
-    - version: 6.x
-      url: "https://laravel.com/docs/6.x/releases"
-      initail_release: "2019-09-03"
-      active_support: "2022-01-25"
-      security_support: "2022-09-06"
-      latest: "6.20.43"
-      lts: true
-    - version: "5.8"
-      url: "https://laravel.com/docs/5.8/releases"
-      initail_release: "2019-02-26"
-      active_support: "2019-08-26"
-      security_support: "2020-02-26"
-      latest: "5.8.38"
+    - version: "11.x"
+      url: "https://laravel.com/docs/11.x/releases"
+      initial_release: "2024-03-12"
+      active_support: "2025-09-12" # 終了済み
+      security_support: "2026-03-12" # 終了済み
+      latest: "11.x.x"
       lts: false
-    - version: "5.5"
-      url: "https://laravel.com/docs/5.5/releases"
-      initail_release: "2017-08-30"
-      active_support: "2019-08-30"
-      security_support: "2020-08-30"
-      latest: "5.5.50"
-      lts: true
 
 - name: "Symfony"
   category: "framework"
   url: "https://symfony.com/releases"
   releases:
-    - version: "6.0"
-      url: "https://symfony.com/releases/6.0"
-      initail_release: "2021-11-29"
-      active_support: "2022-07-31"
-      security_support: "2022-07-31"
-      latest: "6.0.2"
+    - version: "8.0"
+      url: "https://symfony.com/releases/8.0"
+      initial_release: "2025-11-01"
+      active_support: "2026-07-31"
+      security_support: "2026-07-31"
+      latest: "8.0.8"
       lts: false
-    - version: "5.4"
-      url: "https://symfony.com/releases/5.4"
-      initail_release: "2021-11-29"
-      active_support: "2024-11-30"
-      security_support: "2025-11-30"
-      latest: "5.4.2"
-      lts: true
-    - version: "4.4"
-      url: "https://symfony.com/releases/4.4"
-      initail_release: "2019-11-21"
-      active_support: "2022-11-30"
-      security_support: "2023-11-30"
-      latest: "4.4.36"
+    - version: "7.4"
+      url: "https://symfony.com/releases/7.4"
+      initial_release: "2025-11-01"
+      active_support: "2026-07-31"
+      security_support: "2026-07-31"
+      latest: "7.4.8"
+      lts: false
+    - version: "6.4"
+      url: "https://symfony.com/releases/6.4"
+      initial_release: "2023-11-01"
+      active_support: "2026-11-30"
+      security_support: "2027-11-30"
+      latest: "6.4.36"
       lts: true
 
 - name: "CakePHP"
   category: "framework"
-  url: "https://github.com/cakephp/cakephp/wiki#roadmaps"
+  url: "https://endoflife.date/cakephp"
   releases:
-    - version: 4.x
-      url: "https://github.com/cakephp/cakephp/wiki"
-      initail_release: "2019-12-15"
-      active_support: ""
-      security_support: ""
-      latest: "4.3.3"
+    - version: "5.3"
+      url: "https://book.cakephp.org/5/en/index.html"
+      initial_release: "2026-01-09"
+      active_support: "2026-09-09" # 推測（CakePHPのマイナーサポートは通常次Verまで）
+      security_support: "2027-01-09" # 推測
+      latest: "5.3.3" # 2026-03-18リリース
       lts: true
-    - version: 3.x
-      url: "https://github.com/cakephp/cakephp/wiki"
-      initail_release: "2015-03-22"
-      active_support: "2021-12-15"
-      security_support: "2022-12-15"
-      latest: "3.10.2"
+    - version: "4.6"
+      url: "https://book.cakephp.org/4/en/index.html"
+      initial_release: "2025-03-22"
+      active_support: "2025-09-09" # 終了済み
+      security_support: "2026-09-09"
+      latest: "4.6.3"
       lts: true
