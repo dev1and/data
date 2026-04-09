@@ -600,7 +600,7 @@
   alias: DTダイナミクス
   url: https://techblog.dt-dynamics.com
   rss: https://techblog.dt-dynamics.com/feed
-- name: Dwango
+- name: dwango
   url: https://dwango.github.io
   rss: https://dwango.github.io/index.xml
 - name: ecbeing
@@ -2084,7 +2084,7 @@
   alias: 食べログ
   url: https://tech-blog.tabelog.com
   rss: https://tech-blog.tabelog.com/feed
-- name: Tabelog Frontend note
+- name: Tabelog Frontend
   url: https://note.com/tabelog_frontend
   rss: https://note.com/tabelog_frontend/rss
 - name: takeyuwebinc
