@@ -39,7 +39,7 @@
 - name: Adways
   url: https://blog.engineer.adways.net
   rss: https://blog.engineer.adways.net/feed
-- name: agent_grow Zenn
+- name: agent_grow
   alias: エージェントグロー
   url: https://zenn.dev/p/agent_grow
   rss: https://zenn.dev/p/agent_grow/feed
@@ -53,7 +53,7 @@
 - name: AI Shift
   url: https://www.ai-shift.co.jp/techblog
   rss: https://www.ai-shift.co.jp/techblog/feed
-- name: aidemy Zenn
+- name: aidemy
   alias: アイデミー
   url: https://zenn.dev/p/aidemy
   rss: https://zenn.dev/p/aidemy/feed
@@ -64,7 +64,7 @@
   alias: クイック
   url: https://aimstogeek.hatenablog.com
   rss: https://aimstogeek.hatenablog.com/feed
-- name: AIREV Zenn
+- name: AIREV
   url: https://zenn.dev/airev
   rss: https://zenn.dev/airev/feed
 - name: Akatsuki
@@ -75,12 +75,12 @@
   alias: フォトシンス
   url: https://akerun.hateblo.jp
   rss: https://akerun.hateblo.jp/feed
-- name: aldagram Zenn
-  alias: アルダグラム-developer Zenn
+- name: aldagram_zenn_aldagram
+  alias: アルダグラム
   url: https://zenn.dev/aldagram
   rss: https://zenn.dev/aldagram/feed
-- name: aldagram_tech Zenn
-  alias: アルダグラム Zenn
+- name: aldagram_zenn_aldagram_tech
+  alias: アルダグラム
   url: https://zenn.dev/p/aldagram_tech
   rss: https://zenn.dev/p/aldagram_tech/feed
 - name: Algomatic
@@ -90,6 +90,10 @@
   alias: オールアバウト
   url: https://allabout-tech.hatenablog.com
   rss: https://allabout-tech.hatenablog.com/feed
+- name: amelieff
+  alias: アメリエフ
+  url: https://staffblog.amelieff.jp
+  rss: https://staffblog.amelieff.jp/feed
 - name: AmiVoice
   url: https://amivoice-tech.hatenablog.com
   rss: https://amivoice-tech.hatenablog.com/feed
@@ -121,7 +125,7 @@
 - name: ARIGATOBANK
   url: https://medium.com/arigatobank-tech-blog
   rss: https://medium.com/feed/arigatobank-tech-blog
-- name: arm_techblog Zenn
+- name: arm_techblog
   alias: ARMテックブログ
   url: https://zenn.dev/p/arm_techblog
   rss: https://zenn.dev/p/arm_techblog/feed
@@ -129,7 +133,7 @@
   alias: アームズ
   url: https://tech.arms-soft.co.jp
   rss: https://tech.arms-soft.co.jp/feed
-- name: arsaga Zenn
+- name: arsaga
   alias: アルサーガパートナーズ
   url: https://zenn.dev/p/arsaga
   rss: https://zenn.dev/p/arsaga/feed
@@ -164,22 +168,24 @@
   alias: アソビュー
   url: https://tech.asoview.co.jp
   rss: https://tech.asoview.co.jp/feed
-- name: ASSIGN Zenn
+- name: ASSIGN
   url: https://zenn.dev/p/assign
   rss: https://zenn.dev/p/assign/feed
 - name: Assured
   url: https://tech.assured.jp
   rss: https://tech.assured.jp/feed
-- name: asuene Zenn
+- name: asuene
   alias: アスエネ
   url: https://zenn.dev/p/asuene
   rss: https://zenn.dev/p/asuene/feed
-- name: atama plus dev Zenn
-  url: https://zenn.dev/atamaplus_dev
-  rss: https://zenn.dev/atamaplus_dev/feed
-- name: atama plus Zenn
+- name: atamaplus_zenn_atamaplus
+  alias: atama plus
   url: https://zenn.dev/p/atamaplus
   rss: https://zenn.dev/p/atamaplus/feed
+- name: atamaplus_zenn_atamaplus_dev
+  alias: atama plus
+  url: https://zenn.dev/atamaplus_dev
+  rss: https://zenn.dev/atamaplus_dev/feed
 - name: athome
   alias: アットホーム
   url: https://note.athome-inc.jp/m/mc7cb98d764cd
@@ -191,11 +197,11 @@
 - name: AWS
   url: https://aws.amazon.com/jp/blogs/news
   rss: https://aws.amazon.com/jp/blogs/news/feed
-- name: axelmark Zenn
+- name: axelmark
   alias: アクセルマーク
   url: https://zenn.dev/axelmark
   rss: https://zenn.dev/axelmark/feed
-- name: Axelspace Zenn
+- name: Axelspace
   url: https://zenn.dev/p/axelspace
   rss: https://zenn.dev/p/axelspace/feed
 - name: Azure
@@ -205,10 +211,10 @@
 - name: Azure IaaS Core Support
   url: https://jpaztech.github.io/blog
   rss: https://jpaztech.github.io/blog/atom.xml
-- name: Babel Zenn
+- name: Babel
   url: https://zenn.dev/p/babel
   rss: https://zenn.dev/p/babel/feed
-- name: BABYJOB Zenn
+- name: BABYJOB
   url: https://zenn.dev/p/babyjob
   rss: https://zenn.dev/p/babyjob/feed
 - name: Backyard
@@ -243,10 +249,10 @@
 - name: Beatrust
   url: https://tech.beatrust.com
   rss: https://tech.beatrust.com/feed
-- name: BEENOS Zenn
+- name: BEENOS
   url: https://zenn.dev/beenos
   rss: https://zenn.dev/beenos/feed
-- name: Berry Zenn
+- name: Berry
   url: https://zenn.dev/p/berry_blog
   rss: https://zenn.dev/p/berry_blog/feed
 - name: Bftnagoya
@@ -299,34 +305,35 @@
   alias: 分析屋
   url: https://note.com/bunsekiya_tech
   rss: https://note.com/bunsekiya_tech/rss
-- name: BuySell Technologies Zenn
-  url: https://zenn.dev/p/buyselltech
-  rss: https://zenn.dev/p/buyselltech/feed
-- name: Buysell-technologies
-  alias: バイセル
+- name: BuySell Technologies
+  alias: BuySell Technologies
   url: https://tech.buysell-technologies.com
   rss: https://tech.buysell-technologies.com/feed
+- name: Buysell Technologies_zenn_buyselltech
+  alias: BuySell Technologies
+  url: https://zenn.dev/p/buyselltech
+  rss: https://zenn.dev/p/buyselltech/feed
 - name: CADDi
   url: https://caddi.tech
   rss: https://caddi.tech/feed
-- name: calldoctor_blog Zenn
+- name: calldoctor_blog
   alias: みてねコールドクター
   url: https://zenn.dev/p/calldoctor_blog
   rss: https://zenn.dev/p/calldoctor_blog/feed
-- name: CAMPFIRE note
+- name: CAMPFIRE
   url: https://note.com/campfire_dev
   rss: https://note.com/campfire_dev/rss
-- name: carenet Zenn
+- name: carenet
   alias: ケアネット
   url: https://zenn.dev/p/carenet
   rss: https://zenn.dev/p/carenet/feed
 - name: CARTA
   url: https://techblog.cartaholdings.co.jp
   rss: https://techblog.cartaholdings.co.jp/feed
-- name: CastingONE Zenn
+- name: CastingONE
   url: https://zenn.dev/p/castingone_dev
   rss: https://zenn.dev/p/castingone_dev/feed
-- name: CauchyE Zenn
+- name: CauchyE
   url: https://zenn.dev/cauchye
   rss: https://zenn.dev/cauchye/feed
 - name: cccmkhd
@@ -342,14 +349,14 @@
 - name: Chatwork
   url: https://creators-note.chatwork.com
   rss: https://creators-note.chatwork.com/feed
-- name: chot Zenn
+- name: chot
   alias: ちょっと
   url: https://zenn.dev/p/chot
   rss: https://zenn.dev/p/chot/feed
 - name: CHUGAI DIGITAL
   url: https://note.chugai-pharm.co.jp/m/mdaeaf24de472
   rss: https://note.chugai-pharm.co.jp/m/mdaeaf24de472/rss
-- name: churadata Zenn
+- name: churadata
   alias: ちゅらデータ
   url: https://zenn.dev/p/churadata
   rss: https://zenn.dev/p/churadata/feed
@@ -367,7 +374,7 @@
   alias: フレクト
   url: https://cloud.flect.co.jp
   rss: https://cloud.flect.co.jp/feed
-- name: cloud_ace Zenn
+- name: cloud_ace
   alias: クラウドエース
   url: https://zenn.dev/cloud_ace
   rss: https://zenn.dev/cloud_ace/feed
@@ -381,7 +388,7 @@
 - name: Cluster
   url: https://tech-blog.cluster.mu
   rss: https://tech-blog.cluster.mu/rss
-- name: coconala Zenn
+- name: coconala
   alias: ココナラ
   url: https://zenn.dev/coconala
   rss: https://zenn.dev/coconala/feed
@@ -389,14 +396,14 @@
   alias: コドモン
   url: https://tech.codmon.com
   rss: https://tech.codmon.com/feed
-- name: CoeFont Zenn
+- name: CoeFont
   url: https://zenn.dev/p/coefont
   rss: https://zenn.dev/p/coefont/feed
 - name: Coincheck
   alias: コインチェック
   url: https://tech.coincheck.blog
   rss: https://tech.coincheck.blog/feed
-- name: collabostyle Zenn
+- name: collabostyle
   alias: コラボスタイル
   url: https://zenn.dev/p/collabostyle
   rss: https://zenn.dev/p/collabostyle/feed
@@ -411,7 +418,7 @@
   alias: コミューン
   url: https://tech.commmune.jp
   rss: https://tech.commmune.jp/feed
-- name: COMPASS Zenn
+- name: COMPASS
   url: https://zenn.dev/p/qubena
   rss: https://zenn.dev/p/qubena/feed
 - name: Connehito
@@ -429,7 +436,7 @@
   inactive: true
   url: https://coosy.co.jp/blog/category/web-development
   rss: https://coosy.co.jp/blog/category/web-development/feed/
-- name: Cre8tfun Zenn
+- name: Cre8tfun
   url: https://zenn.dev/p/cre8tfun_dev
   rss: https://zenn.dev/p/cre8tfun_dev/feed
 - name: creationline
@@ -451,7 +458,7 @@
   alias: クラウドワークス
   url: https://engineer.crowdworks.jp
   rss: https://engineer.crowdworks.jp/feed
-- name: CryptoGames Zenn
+- name: CryptoGames
   url: https://zenn.dev/p/cryptogames
   rss: https://zenn.dev/p/cryptogames/feed
 - name: Css-net
@@ -479,19 +486,19 @@
 - name: Cybozu
   url: https://blog.cybozu.io
   rss: https://blog.cybozu.io/feed
-- name: cybozu_data Zenn
+- name: Cybozu_zenn_cybozu_data
   alias: サイボウズ データチーム
   url: https://zenn.dev/p/cybozu_data
   rss: https://zenn.dev/p/cybozu_data/feed
-- name: cybozu_ept Zenn
+- name: Cybozu_zenn_cybozu_ept
   alias: サイボウズ 生産性向上チーム
   url: https://zenn.dev/p/cybozu_ept
   rss: https://zenn.dev/p/cybozu_ept/feed
-- name: cybozu_frontend Zenn
+- name: Cybozu_zenn_cybozu_frontend
   alias: サイボウズ フロントエンド
   url: https://zenn.dev/p/cybozu_frontend
   rss: https://zenn.dev/p/cybozu_frontend/feed
-- name: cybozu_neco Zenn
+- name: Cybozu_zenn_cybozu_neco
   alias: サイボウズ Necoチーム
   url: https://zenn.dev/p/cybozu_neco
   rss: https://zenn.dev/p/cybozu_neco/feed
@@ -499,7 +506,8 @@
   alias: サイゼント
   url: https://cyzennt.co.jp/blog
   rss: https://cyzennt.co.jp/blog/feed/
-- name: D2C Zenn
+- name: d2c_mtech_blog
+  alias: D2C
   url: https://zenn.dev/p/d2c_mtech_blog
   rss: https://zenn.dev/p/d2c_mtech_blog/feed
 - name: Data
@@ -518,7 +526,7 @@
 - name: DeNA Testing Blog
   url: https://swet.dena.com
   rss: https://swet.dena.com/feed
-- name: DeNA Zenn
+- name: DeNA_zenn_dena
   url: https://zenn.dev/p/dena
   rss: https://zenn.dev/p/dena/feed
 - name: DENET
@@ -567,17 +575,17 @@
 - name: Diverse
   url: https://developer.diverse-inc.com
   rss: https://developer.diverse-inc.com/feed
-- name: DMM Developers
+- name: DMM
   url: https://developersblog.dmm.com
   rss: https://developersblog.dmm.com/feed
 - name: DMM INSIDE
   url: https://inside.dmm.com
   rss: https://inside.dmm.com/rss
-- name: dokokade Zenn
+- name: dokokade
   alias: ドコカデ
   url: https://zenn.dev/dokokade
   rss: https://zenn.dev/dokokade/feed
-- name: dreamarts Zenn
+- name: dreamarts
   alias: ドリーム・アーツ テックブログ
   url: https://zenn.dev/p/dreamarts
   rss: https://zenn.dev/p/dreamarts/feed
@@ -585,18 +593,14 @@
   alias: ドリコム
   url: https://tech.drecom.co.jp
   rss: https://tech.drecom.co.jp/feed/
-- name: DressCode Zenn
+- name: DressCode
   url: https://zenn.dev/p/dress_code
   rss: https://zenn.dev/p/dress_code/feed
 - name: dt-dynamics
   alias: DTダイナミクス
   url: https://techblog.dt-dynamics.com
   rss: https://techblog.dt-dynamics.com/feed
-- name: dwango
-  url: https://dwango.github.io/articles
-  rss: https://dwango.github.io/articles/index.xml
-- name: Dwango 2
-  alias: ドワンゴ
+- name: Dwango
   url: https://dwango.github.io
   rss: https://dwango.github.io/index.xml
 - name: ecbeing
@@ -621,7 +625,7 @@
 - name: ENECHANGE
   url: https://tech.enechange.co.jp
   rss: https://tech.enechange.co.jp/feed
-- name: ENECHANGE Zenn
+- name: ENECHANGE_zenn_enechange_blog
   url: https://zenn.dev/p/enechange_blog
   rss: https://zenn.dev/p/enechange_blog/feed
 - name: Enigmo
@@ -638,7 +642,7 @@
   alias: エブリー
   url: https://tech.every.tv
   rss: https://tech.every.tv/feed
-- name: eviry Zenn
+- name: eviry
   alias: エビリー
   url: https://zenn.dev/eviry
   rss: https://zenn.dev/eviry/feed
@@ -659,11 +663,9 @@
   url: https://www.fabrica-com.co.jp/techblog
   rss: https://www.fabrica-com.co.jp/techblog/feed/
 - name: FAST-D
-  url: https://fast-d.hmcom.co.jp/blog
-  rss: https://fast-d.hmcom.co.jp/blog/feed
-- name: feed Zenn
-  url: https://zenn.dev/p/team_zenn
-  rss: https://zenn.dev/p/team_zenn/feed
+  inactive: true
+  url: https://fast-d.hmcom.co.jp/techblog
+  rss: https://fast-d.hmcom.co.jp/techblog/feed
 - name: Feedforce
   alias: フィードフォース
   url: https://developer.feedforce.jp
@@ -672,7 +674,7 @@
   alias: フェンリル
   url: https://engineers.fenrir-inc.com
   rss: https://engineers.fenrir-inc.com/feed
-- name: fez_tech Zenn
+- name: fez_tech
   alias: フェズ
   url: https://zenn.dev/p/fez_tech
   rss: https://zenn.dev/p/fez_tech/feed
@@ -680,7 +682,7 @@
   alias: ＦＦＲＩセキュリティ
   url: https://engineers.ffri.jp
   rss: https://engineers.ffri.jp/feed
-- name: Finatext Zenn
+- name: Finatext
   url: https://zenn.dev/p/finatext
   rss: https://zenn.dev/p/finatext/feed
 - name: FiNC
@@ -689,7 +691,7 @@
 - name: Findy
   url: https://tech.findy.co.jp
   rss: https://tech.findy.co.jp/feed
-- name: firstautomation Zenn
+- name: firstautomation
   alias: ファースト・オートメーション
   url: https://zenn.dev/p/firstautomation
   rss: https://zenn.dev/p/firstautomation/feed
@@ -705,7 +707,7 @@
 - name: for Startups
   url: https://tech.forstartups.com
   rss: https://tech.forstartups.com/feed
-- name: forcia_tech Zenn
+- name: forcia_tech
   alias: フォルシア
   url: https://zenn.dev/p/forcia_tech
   rss: https://zenn.dev/p/forcia_tech/feed
@@ -730,7 +732,7 @@
   alias: フクロウラボ
   url: https://developers.fukurou-labo.co.jp
   rss: https://developers.fukurou-labo.co.jp/feed/
-- name: funteractive Zenn
+- name: funteractive
   alias: ファンタラクティブ
   url: https://zenn.dev/funteractive
   rss: https://zenn.dev/funteractive/feed
@@ -739,9 +741,11 @@
   url: https://tech.furyu.jp
   rss: https://tech.furyu.jp/feed
 - name: Fusic
+  alias: Fusic
   url: https://tech.fusic.co.jp
   rss: https://tech.fusic.co.jp/rss.xml
-- name: Fusic Zenn
+- name: Fusic_zenn_fusic
+  alias: Fusic
   url: https://zenn.dev/p/fusic
   rss: https://zenn.dev/p/fusic/feed
 - name: FUTURE
@@ -757,7 +761,7 @@
 - name: Game Server Services
   url: https://gs2.hatenablog.com
   rss: https://gs2.hatenablog.com/feed
-- name: game8_blog Zenn
+- name: Game8
   alias: ゲームエイト
   url: https://zenn.dev/p/game8_blog
   rss: https://zenn.dev/p/game8_blog/feed
@@ -770,16 +774,16 @@
 - name: GCP
   url: https://cloudblog.withgoogle.com/ja
   rss: https://cloudblog.withgoogle.com/ja/rss
-- name: Gemcook Zenn
+- name: Gemcook
   url: https://zenn.dev/p/gemcook
   rss: https://zenn.dev/p/gemcook/feed
 - name: Generative Agents
   url: https://blog.generative-agents.co.jp
   rss: https://blog.generative-agents.co.jp/feed
-- name: GIBJapan Zenn
+- name: GIBJapan
   url: https://zenn.dev/p/gibjapan
   rss: https://zenn.dev/p/gibjapan/feed
-- name: GiftX Zenn
+- name: GiftX
   url: https://zenn.dev/p/giftx_blog
   rss: https://zenn.dev/p/giftx_blog/feed
 - name: Gmo
@@ -816,7 +820,7 @@
 - name: Goodpatch
   url: https://goodpatch-tech.hatenablog.com
   rss: https://goodpatch-tech.hatenablog.com/feed
-- name: Google Cloud Japan Zenn
+- name: Google Cloud Japan
   url: https://zenn.dev/p/google_cloud_jp
   rss: https://zenn.dev/p/google_cloud_jp/feed
 - name: Google Japan
@@ -848,7 +852,7 @@
 - name: Gunosy
   url: https://tech.gunosy.io
   rss: https://tech.gunosy.io/feed
-- name: hacobell_dev Zenn
+- name: hacobell_dev
   alias: ハコベル
   url: https://zenn.dev/p/hacobell_dev
   rss: https://zenn.dev/p/hacobell_dev/feed
@@ -858,10 +862,10 @@
 - name: Hajimari
   url: https://tech.hajimari.inc
   rss: https://tech.hajimari.inc/feed
-- name: HAMWORKS Zenn
+- name: HAMWORKS
   url: https://zenn.dev/p/hamworks
   rss: https://zenn.dev/p/hamworks/feed
-- name: Happy Elements Zenn
+- name: Happy Elements
   url: https://zenn.dev/p/happy_elements
   rss: https://zenn.dev/p/happy_elements/feed
 - name: HashPort
@@ -870,7 +874,7 @@
 - name: Hatena
   url: https://developer.hatenastaff.com
   rss: https://developer.hatenastaff.com/feed
-- name: headwaters Zenn
+- name: headwaters
   alias: ヘッドウォータース
   url: https://zenn.dev/p/headwaters
   rss: https://zenn.dev/p/headwaters/feed
@@ -923,7 +927,7 @@
 - name: HRBrain
   url: https://times.hrbrain.co.jp
   rss: https://times.hrbrain.co.jp/feed
-- name: HRBrain Zenn
+- name: HRBrain_zenn_hrbrain
   url: https://zenn.dev/p/hrbrain
   rss: https://zenn.dev/p/hrbrain/feed
 - name: i-plug
@@ -976,11 +980,11 @@
   alias: アイプランニング
   url: https://iplanning.hatenablog.jp
   rss: https://iplanning.hatenablog.jp/feed
-- name: iret Zenn
+- name: iret
   alias: アイレット
   url: https://zenn.dev/p/iret
   rss: https://zenn.dev/p/iret/feed
-- name: ispec Zenn
+- name: ispec
   url: https://zenn.dev/ispec
   rss: https://zenn.dev/ispec/feed
 - name: istyle
@@ -995,7 +999,7 @@
   alias: インテリジェントテクノロジー
   url: https://iti.hatenablog.jp
   rss: https://iti.hatenablog.jp/feed
-- name: IVRy Zenn
+- name: IVRy
   url: https://zenn.dev/p/ivry
   rss: https://zenn.dev/p/ivry/feed
 - name: Jbs
@@ -1015,7 +1019,7 @@
   alias: ジモティー
   url: https://jmty-tech.hatenablog.com
   rss: https://jmty-tech.hatenablog.com/feed
-- name: jtechjapan Zenn
+- name: jtechjapan
   alias: ジェイテックジャパン
   url: https://zenn.dev/jtechjapan
   rss: https://zenn.dev/jtechjapan/feed
@@ -1056,7 +1060,7 @@
   alias: カンムテック
   url: https://tech.kanmu.co.jp
   rss: https://tech.kanmu.co.jp/feed
-- name: karabiner_inc Zenn
+- name: karabiner_inc
   alias: カラビナテクノロジー
   url: https://zenn.dev/p/karabiner_inc
   rss: https://zenn.dev/p/karabiner_inc/feed
@@ -1129,16 +1133,16 @@
   alias: ランサーズ
   url: https://engineer.blog.lancers.jp
   rss: https://engineer.blog.lancers.jp/feed/
-- name: Landel Zenn
+- name: Landel
   url: https://zenn.dev/p/landel_tech
   rss: https://zenn.dev/p/landel_tech/feed
-- name: LAPRAS Zenn
+- name: LAPRAS
   url: https://zenn.dev/p/lapras_inc
   rss: https://zenn.dev/p/lapras_inc/feed
 - name: LayerX
   url: https://tech.layerx.co.jp
   rss: https://tech.layerx.co.jp/feed
-- name: LayerX Zenn
+- name: LayerX_zenn_layerx
   url: https://zenn.dev/p/layerx
   rss: https://zenn.dev/p/layerx/feed
 - name: LCL
@@ -1148,10 +1152,12 @@
   alias: リーナー
   url: https://developer.leaner.co.jp
   rss: https://developer.leaner.co.jp/feed
-- name: Leaner Dev Zenn
+- name: Leaner_zenn_leaner_dev
+  alias: リーナー
   url: https://zenn.dev/p/leaner_dev
   rss: https://zenn.dev/p/leaner_dev/feed
-- name: Leaner Tech Zenn
+- name: Leaner_zenn_leaner_tech
+  alias: リーナー
   url: https://zenn.dev/leaner_tech
   rss: https://zenn.dev/leaner_tech/feed
 - name: LegalForce
@@ -1164,7 +1170,7 @@
   alias: レバレジーズ
   url: https://tech.leverages.jp
   rss: https://tech.leverages.jp/feed
-- name: levtech Zenn
+- name: levtech
   alias: レバテック
   url: https://zenn.dev/p/levtech
   rss: https://zenn.dev/p/levtech/feed
@@ -1200,13 +1206,13 @@
 - name: Liquid
   url: https://tech.liquid.bio
   rss: https://tech.liquid.bio/feed
-- name: Lisa Technologies Zenn
+- name: Lisa Technologies
   url: https://zenn.dev/lisatech
   rss: https://zenn.dev/lisatech/feed
 - name: LIVESENSE
   url: https://made.livesense.co.jp
   rss: https://made.livesense.co.jp/feed
-- name: Livesense Zenn
+- name: Livesense_zenn_livesense
   url: https://zenn.dev/p/livesense
   rss: https://zenn.dev/p/livesense/feed
 - name: Logical
@@ -1221,20 +1227,26 @@
   alias: ロジクラ
   url: https://blog.logikura.dev
   rss: https://blog.logikura.dev/feed
-- name: loglass Zenn
-  alias: ログラス Zenn
+- name: loglass
+  alias: ログラス
+  url: https://prd-blog.loglass.co.jp
+  rss: https://prd-blog.loglass.co.jp/feed
+- name: loglass_zenn_loglass
+  alias: ログラス
   url: https://zenn.dev/p/loglass
   rss: https://zenn.dev/p/loglass/feed
-- name: lovegraph Zenn
+- name: lovegraph
   alias: ラブグラフ
   url: https://zenn.dev/p/lovegraph
   rss: https://zenn.dev/p/lovegraph/feed
-- name: Luup Developers Zenn
-  url: https://zenn.dev/p/luup_developers
-  rss: https://zenn.dev/p/luup_developers/feed
-- name: Luup Zenn
+- name: Luup_zenn_luup
+  alias: Luup
   url: https://zenn.dev/luup
   rss: https://zenn.dev/luup/feed
+- name: Luup_zenn_luup_developers
+  alias: Luup
+  url: https://zenn.dev/p/luup_developers
+  rss: https://zenn.dev/p/luup_developers/feed
 - name: lycorp
   alias: LINEヤフー
   url: https://techblog.lycorp.co.jp/ja/
@@ -1253,7 +1265,7 @@
   alias: M&Aクラウド
   url: https://tech.macloud.jp
   rss: https://tech.macloud.jp/feed
-- name: Magic Moment Zenn
+- name: Magic Moment
   url: https://zenn.dev/magicmoment
   rss: https://zenn.dev/magicmoment/feed
 - name: Makeshop
@@ -1263,19 +1275,19 @@
 - name: Makuake note
   url: https://note.com/dev_makuake
   rss: https://note.com/dev_makuake/rss
-- name: manalink Zenn
+- name: manalink_Zenn_manalink
   alias: マナリンク
   url: https://zenn.dev/manalink
   rss: https://zenn.dev/manalink/feed
-- name: manalink_dev Zenn
-  alias: マナリンク Zenn
+- name: manalink_Zenn_manalink_dev
+  alias: マナリンク
   url: https://zenn.dev/p/manalink_dev
   rss: https://zenn.dev/p/manalink_dev/feed
-- name: manhattan_code Zenn
+- name: manhattan_code
   alias: マンハッタンコード
   url: https://zenn.dev/manhattan_code
   rss: https://zenn.dev/manhattan_code/feed
-- name: mapbox_japan Zenn
+- name: mapbox_japan
   alias: マップボックス・ジャパン
   url: https://zenn.dev/p/mapbox_japan
   rss: https://zenn.dev/p/mapbox_japan/feed
@@ -1283,7 +1295,7 @@
   alias: ゼネット
   url: https://media.zenet-web.co.jp
   rss: https://media.zenet-web.co.jp/feed
-- name: media_engine Zenn
+- name: media_engine
   alias: メディアエンジン
   url: https://zenn.dev/media_engine
   rss: https://zenn.dev/media_engine/feed
@@ -1302,13 +1314,13 @@
 - name: Mercari
   url: https://engineering.mercari.com
   rss: https://engineering.mercari.com/blog/feed.xml
-- name: MESON Zenn
+- name: MESON
   url: https://zenn.dev/meson
   rss: https://zenn.dev/meson/feed
 - name: MicroAd
   url: https://developers.microad.co.jp
   rss: https://developers.microad.co.jp/feed
-- name: microCMS Zenn
+- name: microCMS
   url: https://zenn.dev/p/microcms
   rss: https://zenn.dev/p/microcms/feed
 - name: Miistin
@@ -1318,7 +1330,7 @@
 - name: mikan
   url: https://mikan-tech.hatenablog.jp
   rss: https://mikan-tech.hatenablog.jp/feed
-- name: minedia Zenn
+- name: minedia
   alias: マインディア
   url: https://zenn.dev/p/minedia
   rss: https://zenn.dev/p/minedia/feed
@@ -1329,7 +1341,7 @@
 - name: Mirrativ
   url: https://tech.mirrativ.stream
   rss: https://tech.mirrativ.stream/feed
-- name: mirrativ_blog Zenn
+- name: mirrativ_blog
   alias: ミラティブ
   url: https://zenn.dev/p/mirrativ_blog
   rss: https://zenn.dev/p/mirrativ_blog/feed
@@ -1337,16 +1349,18 @@
   alias: ミツカリ
   url: https://tech-blog.mitsucari.com
   rss: https://tech-blog.mitsucari.com/feed
-- name: Mixi Medium
-  url: https://medium.com/mixi-developers
-  rss: https://medium.com/feed/mixi-developers
-- name: MIXI Zenn
-  url: https://zenn.dev/p/mixi
-  rss: https://zenn.dev/p/mixi/feed
-- name: Mixi-developers
+- name: Mixi
   alias: ミクシィ
   url: https://mixi-developers.mixi.co.jp
   rss: https://mixi-developers.mixi.co.jp/feed
+- name: Mixi_medium_mixi-developers
+  alias: ミクシィ
+  url: https://medium.com/mixi-developers
+  rss: https://medium.com/feed/mixi-developers
+- name: Mixi_zenn_mixi
+  alias: ミクシィ
+  url: https://zenn.dev/p/mixi
+  rss: https://zenn.dev/p/mixi/feed
 - name: MNTSQ
   url: https://tech.mntsq.co.jp
   rss: https://tech.mntsq.co.jp/feed
@@ -1361,7 +1375,7 @@
 - name: mofmof
   url: https://www.mof-mof.co.jp/tech-blog
   rss: https://www.mof-mof.co.jp/tech-blog/feed
-- name: mofmof Zenn
+- name: mofmof_zenn_mofmof
   url: https://zenn.dev/p/mofmof_inc
   rss: https://zenn.dev/p/mofmof_inc/feed
 - name: Money Forward
@@ -1370,15 +1384,15 @@
 - name: Money Forward Kessai
   url: https://tech.mfkessai.co.jp
   rss: https://tech.mfkessai.co.jp/index.xml
-- name: moneyforward Zenn
-  alias: マネーフォワード Zenn
-  url: https://zenn.dev/p/moneyforward
-  rss: https://zenn.dev/p/moneyforward/feed
-- name: Moneyforward-dev
+- name: Money Forward-dev
   alias: マネーフォワード
   url: https://moneyforward-dev.jp
   rss: https://moneyforward-dev.jp/feed
-- name: monicle Zenn
+- name: Money Forward_zenn_moneyforward
+  alias: マネーフォワード
+  url: https://zenn.dev/p/moneyforward
+  rss: https://zenn.dev/p/moneyforward/feed
+- name: monicle
   alias: モニクル
   url: https://zenn.dev/p/monicle
   rss: https://zenn.dev/p/monicle/feed
@@ -1398,7 +1412,7 @@
   alias: モンスターラボ DX BLOG
   url: https://monstar-lab.com/dx
   rss: https://monstar-lab.com/dx/feed/
-- name: morisawa Zenn
+- name: morisawa
   alias: モリサワ
   url: https://zenn.dev/p/morisawa
   rss: https://zenn.dev/p/morisawa/feed
@@ -1410,10 +1424,10 @@
   alias: エムオーテックス
   url: https://tech.motex.co.jp
   rss: https://tech.motex.co.jp/feed
-- name: moze Zenn
+- name: moze
   url: https://zenn.dev/p/moze_ai
   rss: https://zenn.dev/p/moze_ai/feed
-- name: msmtec Zenn
+- name: msmtec
   alias: ミスミグループ
   url: https://zenn.dev/p/msmtec
   rss: https://zenn.dev/p/msmtec/feed
@@ -1424,14 +1438,14 @@
 - name: MUGENUP
   url: https://mugenup-tech.hatenadiary.com
   rss: https://mugenup-tech.hatenadiary.com/feed
-- name: mutex Zenn
+- name: mutex
   url: https://zenn.dev/p/mutex_inc
   rss: https://zenn.dev/p/mutex_inc/feed
-- name: mybest Zenn
+- name: mybest
   alias: マイベスト
   url: https://zenn.dev/mybest
   rss: https://zenn.dev/mybest/feed
-- name: N-Technologies Zenn
+- name: N-Technologies
   url: https://zenn.dev/n1nc
   rss: https://zenn.dev/n1nc/feed
 - name: nana music
@@ -1440,13 +1454,13 @@
 - name: Nature
   url: https://engineering.nature.global
   rss: https://engineering.nature.global/feed
-- name: NCDC Zenn
+- name: NCDC
   url: https://zenn.dev/p/ncdc
   rss: https://zenn.dev/p/ncdc/feed
 - name: NDKCOM
   url: https://enqi.hatenablog.jp
   rss: https://enqi.hatenablog.jp/feed
-- name: NE Zenn
+- name: NE
   url: https://zenn.dev/p/neinc_tech
   rss: https://zenn.dev/p/neinc_tech/feed
 - name: Nealle
@@ -1459,7 +1473,7 @@
   alias: ネフロック
   url: https://blog.nefrock.com
   rss: https://blog.nefrock.com/feed
-- name: NEMTUS Zenn
+- name: NEMTUS
   url: https://zenn.dev/nemtus
   rss: https://zenn.dev/nemtus/feed
 - name: newmo
@@ -1482,7 +1496,7 @@
 - name: NHN
   url: https://techblog.nhn-techorus.com
   rss: https://techblog.nhn-techorus.com/feed
-- name: nicosys_pub Zenn
+- name: nicosys_pub
   alias: ニコシス
   url: https://zenn.dev/p/nicosys_pub
   rss: https://zenn.dev/p/nicosys_pub/feed
@@ -1494,17 +1508,17 @@
   alias: ニフティライフスタイル
   url: https://tech.niftylifestyle.co.jp
   rss: https://tech.niftylifestyle.co.jp/feed
-- name: Nishika Zenn
+- name: Nishika
   url: https://zenn.dev/p/team_nishika
   rss: https://zenn.dev/p/team_nishika/feed
 - name: Nnn
   alias: ドワンゴ教育サービス
   url: https://blog.nnn.dev
   rss: https://blog.nnn.dev/feed
-- name: no plan Zenn
+- name: no plan
   url: https://zenn.dev/no_plan
   rss: https://zenn.dev/no_plan/feed
-- name: no4_dev Zenn
+- name: no4 dev
   alias: ナンバーフォー
   url: https://zenn.dev/p/no4_dev
   rss: https://zenn.dev/p/no4_dev/feed
@@ -1521,7 +1535,8 @@
   alias: NTTコミュニケーションズ
   url: https://engineers.ntt.com
   rss: https://engineers.ntt.com/feed
-- name: NTT DATA TECH Zenn
+- name: ntt_zenn_nttdata_tech
+  alias: NTT DATA
   url: https://zenn.dev/p/nttdata_tech
   rss: https://zenn.dev/p/nttdata_tech/feed
 - name: Nttdocomo-developers
@@ -1536,12 +1551,14 @@
   alias: ヌーラボ
   url: https://nulab.com/ja/blog/categories/techblog
   rss: https://nulab.com/ja/blog/categories/techblog/feed/
-- name: Offers Tech Zenn
-  url: https://zenn.dev/p/overflow_offers
-  rss: https://zenn.dev/p/overflow_offers/feed
-- name: Offers Zenn
+- name: offers_zenn_offers
+  alias: Offers
   url: https://zenn.dev/offers
   rss: https://zenn.dev/offers/feed
+- name: offers_zenn_overflow_offers
+  alias: Offers
+  url: https://zenn.dev/p/overflow_offers
+  rss: https://zenn.dev/p/overflow_offers/feed
 - name: OLTA
   url: https://techblog.olta.co.jp
   rss: https://techblog.olta.co.jp/feed
@@ -1549,7 +1566,7 @@
   alias: ワンキャリア
   url: https://note.com/dev_onecareer/m/m9a6b263704d4
   rss: https://note.com/dev_onecareer/m/m9a6b263704d4/rss
-- name: Open Reach Tech Zenn
+- name: Open Reach Tech
   url: https://zenn.dev/openreachtech
   rss: https://zenn.dev/openreachtech/feed
 - name: OPEN8
@@ -1558,13 +1575,13 @@
 - name: OpenWork
   url: https://techblog.openwork.co.jp
   rss: https://techblog.openwork.co.jp/feed
-- name: OptFit Zenn
+- name: OptFit
   url: https://zenn.dev/optfit
   rss: https://zenn.dev/optfit/feed
 - name: OPTiM
   url: https://tech-blog.optim.co.jp
   rss: https://tech-blog.optim.co.jp/feed
-- name: OPTIMIND Zenn
+- name: OPTIMIND
   url: https://zenn.dev/p/optimind
   rss: https://zenn.dev/p/optimind/feed
 - name: ORENDA WORLD
@@ -1574,7 +1591,7 @@
 - name: OSSTech
   url: https://blog.osstech.co.jp/posts
   rss: https://blog.osstech.co.jp/posts/index.xml
-- name: otetsutabi_tech Zenn
+- name: otetsutabi_tech
   alias: おてつたび
   url: https://zenn.dev/otetsutabi_tech
   rss: https://zenn.dev/otetsutabi_tech/feed
@@ -1597,15 +1614,15 @@
   alias: GMOペパボ
   url: https://tech.pepabo.com
   rss: https://tech.pepabo.com/feed
-- name: peraichi Zenn
+- name: peraichi_zenn_peraichi
   alias: ペライチ
   url: https://zenn.dev/peraichi
   rss: https://zenn.dev/peraichi/feed
-- name: peraichi_blog Zenn
-  alias: ペライチ Zenn
+- name: peraichi_zenn_peraichi_blog
+  alias: ペライチ
   url: https://zenn.dev/p/peraichi_blog
   rss: https://zenn.dev/p/peraichi_blog/feed
-- name: person_link Zenn
+- name: person_link
   alias: パーソンリンク
   url: https://zenn.dev/person_link
   rss: https://zenn.dev/person_link/feed
@@ -1618,10 +1635,10 @@
 - name: php-scrapbox
   url: https://scrapbox.io/php
   rss: https://scrapbox.io/api/feed/php
-- name: pipon Zenn
+- name: pipon
   url: https://zenn.dev/p/pipon_tech_blog
   rss: https://zenn.dev/p/pipon_tech_blog/feed
-- name: pixiv developers Zenn
+- name: pixiv
   url: https://zenn.dev/p/pixiv
   rss: https://zenn.dev/p/pixiv/feed
 - name: pixiv inside
@@ -1644,7 +1661,7 @@
   alias: プレックス
   url: https://product.plex.co.jp
   rss: https://product.plex.co.jp/feed
-- name: plminus Zenn
+- name: plminus
   alias: プラミナス
   url: https://zenn.dev/plminus
   rss: https://zenn.dev/plminus/feed
@@ -1666,14 +1683,10 @@
 - name: PR TIMES
   url: https://developers.prtimes.jp
   rss: https://developers.prtimes.jp/feed/
-- name: praha Zenn
+- name: praha
   alias: プラハ
   url: https://zenn.dev/p/praha
   rss: https://zenn.dev/p/praha/feed
-- name: Prd-blog
-  alias: ログラス
-  url: https://prd-blog.loglass.co.jp
-  rss: https://prd-blog.loglass.co.jp/feed
 - name: Preferred Networks
   url: https://tech.preferred.jp
   rss: https://tech.preferred.jp/ja/blog/feed/
@@ -1695,11 +1708,7 @@
   alias: クイックガード
   url: https://tech.quickguard.jp
   rss: https://tech.quickguard.jp/index.xml
-- name: R-Hack
-  alias: 楽天コマース
-  url: https://r-hack.rakuten.co.jp/
-  rss: https://r-hack.rakuten.co.jp/feed
-- name: Rabee Zenn
+- name: Rabee
   url: https://zenn.dev/p/rabee
   rss: https://zenn.dev/p/rabee/feed
 - name: raccoon
@@ -1722,6 +1731,10 @@
   alias: 楽天コマース
   url: https://commerce-engineer.rakuten.careers/archive/category/%E3%83%86%E3%83%83%E3%82%AF
   rss: https://commerce-engineer.rakuten.careers/feed/category/%E3%83%86%E3%83%83%E3%82%AF
+- name: Rakuten-Commerce_R-Hack
+  alias: 楽天コマース
+  url: https://r-hack.rakuten.co.jp/
+  rss: https://r-hack.rakuten.co.jp/feed
 - name: ranger-systems
   alias: レンジャーシステムズ
   url: https://www.ranger-systems.co.jp/ranger-blog/archives/category/tech
@@ -1730,13 +1743,15 @@
   alias: レアジョブ
   url: https://rarejob-tech-dept.hatenablog.com
   rss: https://rarejob-tech-dept.hatenablog.com/feed
-- name: RD Zenn
+- name: RD
   url: https://zenn.dev/randd
   rss: https://zenn.dev/randd/feed
 - name: READYFOR
+  alias: READYFOR
   url: https://tech.readyfor.jp
   rss: https://tech.readyfor.jp/feed
-- name: READYFOR Zenn
+- name: READYFOR_zenn_readyfor
+  alias: READYFOR
   url: https://zenn.dev/p/readyfor_blog
   rss: https://zenn.dev/p/readyfor_blog/feed
 - name: reazon
@@ -1778,14 +1793,14 @@
   alias: レイ・フロンティア
   url: https://tech-blog.rei-frontier.jp
   rss: https://tech-blog.rei-frontier.jp/feed
-- name: rentio Zenn
+- name: rentio
   alias: レンティオ
   url: https://zenn.dev/rentio
   rss: https://zenn.dev/rentio/feed
 - name: Repro
   url: https://tech.repro.io
   rss: https://tech.repro.io/feed
-- name: rescuenow Zenn
+- name: rescuenow
   alias: レスキューナウ
   url: https://zenn.dev/p/rescuenow
   rss: https://zenn.dev/p/rescuenow/feed
@@ -1833,10 +1848,10 @@
   url: https://engineers.safie.link
   rss: https://engineers.safie.link/feed
 - name: sakura internet
-  alias: さくら, さくらインターネット
+  alias: さくらインターネット
   url: https://knowledge.sakura.ad.jp
   rss: https://knowledge.sakura.ad.jp/feed/
-- name: SALESCORE Zenn
+- name: SALESCORE
   url: https://zenn.dev/p/salescore
   rss: https://zenn.dev/p/salescore/feed
 - name: SalesNow
@@ -1860,7 +1875,7 @@
 - name: SEGA XD note
   url: https://note.com/segaxd/m/m81bdf8ff4be8
   rss: https://note.com/segaxd/m/m81bdf8ff4be8/rss
-- name: Seibii Zenn
+- name: Seibii
   url: https://zenn.dev/seibii
   rss: https://zenn.dev/seibii/feed
 - name: SEPTENI
@@ -1873,7 +1888,7 @@
   alias: サイバーエージェント SGEコア技術本部
   url: https://blog.sge-coretech.com
   rss: https://blog.sge-coretech.com/feed
-- name: sharefull Zenn
+- name: sharefull
   alias: シェアフル
   url: https://zenn.dev/sharefull
   rss: https://zenn.dev/sharefull/feed
@@ -1886,7 +1901,7 @@
 - name: SHOWROOM note
   url: https://note.com/showroom_blog
   rss: https://note.com/showroom_blog/rss
-- name: simpleform Zenn
+- name: simpleform
   alias: シンプルフォーム
   url: https://zenn.dev/simpleform
   rss: https://zenn.dev/simpleform/feed
@@ -1894,7 +1909,7 @@
   alias: サイオステクノロジー
   url: https://tech-lab.sios.jp
   rss: https://tech-lab.sios.jp/feed
-- name: sivira Zenn
+- name: sivira
   alias: シビラ
   url: https://zenn.dev/sivira
   rss: https://zenn.dev/sivira/feed
@@ -1905,7 +1920,7 @@
   alias: スマートキャンプ
   url: https://tech.smartcamp.co.jp
   rss: https://tech.smartcamp.co.jp/feed
-- name: SMARTCAMP Zenn
+- name: SMARTCAMP_zenn_smartcamp
   url: https://zenn.dev/p/smartcamp
   rss: https://zenn.dev/p/smartcamp/feed
 - name: SmartHR
@@ -1914,28 +1929,28 @@
 - name: SmartNews
   url: https://developer.smartnews.com/blog
   rss: https://developer.smartnews.com/blog/feed
-- name: smartround Zenn
+- name: smartround_zenn_smartround
   alias: スマートラウンド
   url: https://zenn.dev/smartround
   rss: https://zenn.dev/smartround/feed
-- name: smartround_dev Zenn
-  alias: スマートラウンド Zenn
+- name: smartround_zenn_smartround_dev
+  alias: スマートラウンド
   url: https://zenn.dev/p/smartround_dev
   rss: https://zenn.dev/p/smartround_dev/feed
-- name: Snowflake Zenn
+- name: Snowflake Data Herores
   url: https://zenn.dev/p/dataheroes
   rss: https://zenn.dev/p/dataheroes/feed
 - name: SO Technologies
   url: https://developer.so-tech.co.jp
   rss: https://developer.so-tech.co.jp/feed
-- name: Social Databank Zenn
+- name: Social Databank
   url: https://zenn.dev/p/sdb_blog
   rss: https://zenn.dev/p/sdb_blog/feed
-- name: socialplus Zenn
+- name: socialplus
   alias: ソーシャルPLUS
   url: https://zenn.dev/p/socialplus
   rss: https://zenn.dev/p/socialplus/feed
-- name: SODA Zenn
+- name: SODA
   url: https://zenn.dev/p/team_soda
   rss: https://zenn.dev/p/team_soda/feed
 - name: Sodech
@@ -1952,7 +1967,7 @@
 - name: SOMPO Digital Lab
   url: https://tech.sompo.io
   rss: https://tech.sompo.io/feed
-- name: sompojapan_dx Zenn
+- name: sompojapan_dx
   alias: 損害保険ジャパン DX推進部
   url: https://zenn.dev/p/sompojapan_dx
   rss: https://zenn.dev/p/sompojapan_dx/feed
@@ -1964,18 +1979,18 @@
   alias: スペースマーケット
   url: https://blog.spacemarket.com/category/code
   rss: https://blog.spacemarket.com/category/code/feed/
-- name: spacemarket note
+- name: spacemarket_note_spacemarket
   alias: スペースマーケット
   url: https://note.com/spacemarket/m/m5c0d938cd0df
   rss: https://note.com/spacemarket/m/m5c0d938cd0df/rss
-- name: spacemarket Zenn
-  alias: スペースマーケット Zenn
+- name: spacemarket_zenn_spacemarket
+  alias: スペースマーケット
   url: https://zenn.dev/p/spacemarket
   rss: https://zenn.dev/p/spacemarket/feed
 - name: Speee
   url: https://tech.speee.jp
   rss: https://tech.speee.jp/feed
-- name: spicato_inc Zenn
+- name: spicato_inc
   alias: スピッカート
   url: https://zenn.dev/spicato_inc
   rss: https://zenn.dev/spicato_inc/feed
@@ -1983,32 +1998,28 @@
   alias: スパイダープラス
   url: https://techblog.spiderplus.co.jp
   rss: https://techblog.spiderplus.co.jp/feed
-- name: SpiralAI Zenn
+- name: SpiralAI
   url: https://zenn.dev/p/spiralai
   rss: https://zenn.dev/p/spiralai/feed
 - name: SQUARE ENIX
   url: https://blog.jp.square-enix.com/iteng-blog
   rss: https://blog.jp.square-enix.com/iteng-blog/index.xml
-- name: SRE Holdings Zenn
+- name: SRE Holdings
   url: https://zenn.dev/p/sre_holdings
   rss: https://zenn.dev/p/sre_holdings/feed
-- name: stafes Zenn
+- name: stafes_zenn_stafes
   alias: スターフェスティバル
   url: https://zenn.dev/stafes
   rss: https://zenn.dev/stafes/feed
-- name: stafes_blog Zenn
-  alias: スターフェスティバル Zenn
+- name: stafes_zenn_stafes_blog
+  alias: スターフェスティバル
   url: https://zenn.dev/p/stafes_blog
   rss: https://zenn.dev/p/stafes_blog/feed
-- name: Staffblog
-  alias: アメリエフ
-  url: https://staffblog.amelieff.jp
-  rss: https://staffblog.amelieff.jp/feed
 - name: stanby
   alias: スタンバイ
   url: https://techblog.stanby.co.jp
   rss: https://techblog.stanby.co.jp/feed
-- name: standfm note
+- name: standfm
   url: https://note.com/standfm_company
   rss: https://note.com/standfm_company/rss
 - name: Stmn
@@ -2018,10 +2029,6 @@
 - name: Stockmark
   url: https://stockmark-tech.hatenablog.com
   rss: https://stockmark-tech.hatenablog.com/feed
-- name: Stockmark 2
-  alias: ストックマーク
-  url: https://tech.stockmark.co.jp
-  rss: https://tech.stockmark.co.jp/index.xml
 - name: STORES
   url: https://product.st.inc
   rss: https://product.st.inc/feed
@@ -2044,7 +2051,7 @@
   alias: サムザップ
   url: https://tech.sumzap.co.jp
   rss: https://tech.sumzap.co.jp/feed
-- name: SUPER STUDIO Zenn
+- name: SUPER STUDIO
   url: https://zenn.dev/p/superstudio
   rss: https://zenn.dev/p/superstudio/feed
 - name: Support
@@ -2080,7 +2087,7 @@
 - name: Tabelog Frontend note
   url: https://note.com/tabelog_frontend
   rss: https://note.com/tabelog_frontend/rss
-- name: takeyuwebinc Zenn
+- name: takeyuwebinc
   alias: タケユー・ウェブ
   url: https://zenn.dev/p/takeyuwebinc
   rss: https://zenn.dev/p/takeyuwebinc/feed
@@ -2094,7 +2101,7 @@
   alias: みてね
   url: https://team-blog.mitene.us
   rss: https://team-blog.mitene.us/feed
-- name: teamlab_fe Zenn
+- name: teamlab_fe
   alias: チームラボ　フロントエンド班
   url: https://zenn.dev/p/teamlab_fe
   rss: https://zenn.dev/p/teamlab_fe/feed
@@ -2142,17 +2149,19 @@
   alias: テックタッチ
   url: https://techtouch.hatenablog.jp
   rss: https://techtouch.hatenablog.jp/feed
-- name: TechTrain Tech Zenn
-  url: https://zenn.dev/p/techtrain_blog
-  rss: https://zenn.dev/p/techtrain_blog/feed
-- name: TechTrain Zenn
+- name: techtrain_zenn_techtrain
+  alias: TechTrain
   url: https://zenn.dev/techtrain
   rss: https://zenn.dev/techtrain/feed
+- name: techtrain_zenn_techtrain_blog
+  alias: TechTrain
+  url: https://zenn.dev/p/techtrain_blog
+  rss: https://zenn.dev/p/techtrain_blog/feed
 - name: tecotec
   alias: テコテック
   url: https://tec.tecotec.co.jp
   rss: https://tec.tecotec.co.jp/feed
-- name: tellernovel_inc Zenn
+- name: tellernovel_inc
   alias: テラーノベル
   url: https://zenn.dev/p/tellernovel_inc
   rss: https://zenn.dev/p/tellernovel_inc/feed
@@ -2163,10 +2172,10 @@
   alias: ピクスタ
   url: https://texta.pixta.jp
   rss: https://texta.pixta.jp/feed
-- name: THECOO note
+- name: THECOO
   url: https://note.com/thecoo_engineer
   rss: https://note.com/thecoo_engineer/rss
-- name: Thinkings Zenn
+- name: Thinkings
   url: https://zenn.dev/thinkings
   rss: https://zenn.dev/thinkings/feed
 - name: Ticketme
@@ -2184,16 +2193,16 @@
   alias: タイマーズ
   url: https://techblog.timers-inc.com
   rss: https://techblog.timers-inc.com/feed
-- name: toccasystems Zenn
+- name: toccasystems
   alias: トッカシステムズ
   url: https://zenn.dev/p/toccasystems
   rss: https://zenn.dev/p/toccasystems/feed
-- name: todoker Zenn
+- name: todoker_zenn_todoker
   alias: トどケール
   url: https://zenn.dev/todoker
   rss: https://zenn.dev/todoker/feed
-- name: todoker_blog Zenn
-  alias: トどケール Zenn
+- name: todoker_zenn_todoker_blog
+  alias: トどケール
   url: https://zenn.dev/p/todoker_blog
   rss: https://zenn.dev/p/todoker_blog/feed
 - name: Tokyo Otaku Mode
@@ -2246,7 +2255,8 @@
   alias: ミツエーリンクス
   url: https://tsd.mitsue.co.jp/assets/rss
   rss: https://tsd.mitsue.co.jp/assets/rss/atom.xml
-- name: TURING Zenn
+- name: turing_motors
+  alias: TURING
   url: https://zenn.dev/p/turing_motors
   rss: https://zenn.dev/p/turing_motors/feed
 - name: TVer
@@ -2255,11 +2265,12 @@
 - name: TVer Technologies
   url: https://techblog.tver-tech.co.jp
   rss: https://techblog.tver-tech.co.jp/feed
-- name: u_motion Zenn
-  alias: デザミス
+- name: u_motion
+  alias: U-motion開発部
   url: https://zenn.dev/u_motion
   rss: https://zenn.dev/u_motion/feed
-- name: Ubie Zenn
+- name: ubie_dev
+  alias: Ubie
   url: https://zenn.dev/p/ubie_dev
   rss: https://zenn.dev/p/ubie_dev/feed
 - name: ubiregi
@@ -2271,9 +2282,11 @@
   url: https://tech.unifa-e.com
   rss: https://tech.unifa-e.com/feed
 - name: Unipos
+  alias: Unipos
   url: https://fringeneer.hatenablog.com
   rss: https://fringeneer.hatenablog.com/feed
-- name: Unipos Zenn
+- name: Unipos_zenn_unipos
+  alias: Unipos
   url: https://zenn.dev/p/unipos
   rss: https://zenn.dev/p/unipos/feed
 - name: User-first
@@ -2286,7 +2299,7 @@
 - name: VA Linux
   url: https://valinux.hatenablog.com
   rss: https://valinux.hatenablog.com/feed
-- name: var Zenn
+- name: var
   url: https://zenn.dev/var
   rss: https://zenn.dev/var/feed
 - name: Vicc
@@ -2304,8 +2317,8 @@
   alias: ビザスク
   url: https://tech.visasq.com
   rss: https://tech.visasq.com/feed
-- name: visasq Zenn
-  alias: ビザスク Zenn
+- name: visasq_zenn_visasq
+  alias: ビザスク
   url: https://zenn.dev/p/visasq
   rss: https://zenn.dev/p/visasq/feed
 - name: Visional
@@ -2314,12 +2327,12 @@
 - name: vivit
   url: https://vivit.hatenablog.com
   rss: https://vivit.hatenablog.com/feed
+- name: Voicy
+  url: https://zenn.dev/p/voicy
+  rss: https://zenn.dev/p/voicy/feed
 - name: Voicy Medium
   url: https://medium.com/voicy-engineering
   rss: https://medium.com/feed/voicy-engineering
-- name: Voicy Zenn
-  url: https://zenn.dev/p/voicy
-  rss: https://zenn.dev/p/voicy/feed
 - name: VOYAGE GROUP
   url: https://techlog.voyagegroup.com
   rss: https://techlog.voyagegroup.com/feed
@@ -2353,7 +2366,7 @@
   alias: ウィングアーク１ｓｔ
   url: https://note.wingarc.com/m/m1d39b8a5d9be
   rss: https://note.wingarc.com/m/m1d39b8a5d9be/rss
-- name: wn_engineering Zenn
+- name: wn_engineering
   alias: ウェルスナビ
   url: https://zenn.dev/p/wn_engineering
   rss: https://zenn.dev/p/wn_engineering/feed
@@ -2365,7 +2378,7 @@
   alias: ワウテック
   url: https://engineer.wowtech.co.jp
   rss: https://engineer.wowtech.co.jp/feed
-- name: wwwave Zenn
+- name: wwwave
   alias: ウェイブ
   url: https://zenn.dev/p/wwwave
   rss: https://zenn.dev/p/wwwave/feed
@@ -2375,14 +2388,14 @@
 - name: x garden
   url: https://x-garde-creation.hatenablog.com
   rss: https://x-garde-creation.hatenablog.com/feed
-- name: X Mile Zenn
+- name: X Mile
   url: https://zenn.dev/p/xmile
   rss: https://zenn.dev/p/xmile/feed
-- name: x_point_1 Zenn
+- name: x_point_1
   alias: エックスポイントワン
   url: https://zenn.dev/p/x_point_1
   rss: https://zenn.dev/p/x_point_1/feed
-- name: xbit Zenn
+- name: xbit
   alias: クロスビット
   url: https://zenn.dev/p/xbit
   rss: https://zenn.dev/p/xbit/feed
@@ -2407,26 +2420,22 @@
 - name: yayoi
   inactive: true
   alias: 弥生
-  url: https://tech.yayoi-kk.co.jp
-  rss: https://tech.yayoi-kk.co.jp/feed
-- name: yayoi-kk
-  alias: 弥生
   url: https://tech-blog.yayoi-kk.co.jp
   rss: https://tech-blog.yayoi-kk.co.jp/feed
 - name: YAZ
   url: https://www.yaz.co.jp
   rss: https://www.yaz.co.jp/feed
-- name: yesodco Zenn
+- name: yesodco
   alias: イエソド
   url: https://zenn.dev/yesodco
   rss: https://zenn.dev/yesodco/feed
-- name: younap Tech Blog Zenn
+- name: younap
   url: https://zenn.dev/p/younap
   rss: https://zenn.dev/p/younap/feed
 - name: YOUTRUST
   url: https://tech.youtrust.co.jp
   rss: https://tech.youtrust.co.jp/feed
-- name: yumemi_inc Zenn
+- name: yumemi_inc
   alias: ゆめみ
   url: https://zenn.dev/p/yumemi_inc
   rss: https://zenn.dev/p/yumemi_inc/feed
@@ -2437,7 +2446,10 @@
   inactive: true
   url: https://tech.zeals.co.jp
   rss: https://tech.zeals.co.jp/feed
-- name: ZEROUM Zenn
+- name: zenn
+  url: https://zenn.dev/p/team_zenn
+  rss: https://zenn.dev/p/team_zenn/feed
+- name: ZEROUM
   alias: ZEROUM
   url: https://zenn.dev/zeroum
   rss: https://zenn.dev/zeroum/feed
@@ -2445,7 +2457,7 @@
   alias: ゼスト
   url: https://techblog.zest.jp
   rss: https://techblog.zest.jp/feed
-- name: ZIPAIR Zenn
+- name: ZIPAIR
   alias: ZIPAIR
   url: https://zenn.dev/p/zipair_tokyo
   rss: https://zenn.dev/p/zipair_tokyo/feed
@@ -2453,7 +2465,7 @@
   alias: ZOZO
   url: https://techblog.zozo.com
   rss: https://techblog.zozo.com/feed
-- name: ZOZO Zenn
+- name: ZOZO_zenn_zozotech
   alias: ZOZO
   url: https://zenn.dev/p/zozotech
   rss: https://zenn.dev/p/zozotech/feed
