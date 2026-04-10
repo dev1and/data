@@ -1189,8 +1189,9 @@
   url: https://developers.lighthouse-frontier.tech
   rss: https://developers.lighthouse-frontier.tech/feed
 - name: Line
+  inactive: true # LINEヤフー
   url: https://engineering.linecorp.com/ja/blog
-  rss: https://engineering.linecorp.com/ja/feed
+  rss: https://engineering.linecorp.com/ja/feed # redirect: https://techblog.lycorp.co.jp/ja/feed/index.xml
 - name: Link-and-motivation
   alias: リンクアンドモチベーション
   url: https://link-and-motivation.hatenablog.com
@@ -2408,8 +2409,9 @@
   url: https://xmart-techblog.hatenablog.com
   rss: https://xmart-techblog.hatenablog.com/feed
 - name: Yahoo
+  inactive: true # LINEヤフー
   url: https://techblog.yahoo.co.jp
-  rss: https://techblog.yahoo.co.jp/index.xml
+  rss: https://techblog.yahoo.co.jp/index.xml # redirect: https://techblog.lycorp.co.jp/ja/feed/index.xml
 - name: Yapodu
   alias: ヤポドゥ
   url: https://blog.yapodu.co.jp
